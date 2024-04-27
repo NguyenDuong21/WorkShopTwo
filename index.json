@@ -4,7 +4,7 @@
 	"title": "Data Engineering Immersion Day",
 	"tags": [],
 	"description": "",
-	"content": "Data Engineering Immersion Day Data Engineering Immersion Day là gì Đây là một bài hands-on labs có chứa các module tập trung vào việc sinh, nhập, load, khám phá và sử dụng dữ liệu trong data lake trên AWS\nLợi ích Data Engineering Immersion Day Data Engineering Immersion day cung cấp thời gian hands-on trên các dịch vụ phân tích dữ liệu như Amazon Kinesis Services để truyển tải và phân tích dữ liệu, AWS Data Migration service, AWS Glue, Amazon Athena, Amazon Quicksight. Data Engineering Immersion day giúp xây dựng serverless data lake trên nền tảng đám mây.\nContent Introduction Preparation Connect to EC2 instance Manage session logs Port Forwarding Clean up resources "
+	"content": "Data Engineering Immersion Day Data Engineering Immersion Day là gì Đây là một bài hands-on labs có chứa các module tập trung vào việc sinh, nhập, load, khám phá và sử dụng dữ liệu trong data lake trên AWS\nLợi ích Data Engineering Immersion Day Data Engineering Immersion day cung cấp thời gian hands-on trên các dịch vụ phân tích dữ liệu như Amazon Kinesis Services để truyển tải và phân tích dữ liệu, AWS Data Migration service, AWS Glue, Amazon Athena, Amazon Quicksight. Data Engineering Immersion day giúp xây dựng serverless data lake trên nền tảng đám mây.\nContent Introduction Lab: Real-Time Clickstream Anomaly Detection with Amazon Managed Service for Apache Flink Lab: Ingestion with DMS Lab: Transforming data with Glue Lab: Query and Visualize Lab: Data Lake Automation Bonus Lab: Glue DataBrew Clean Up "
 },
 {
 	"uri": "https://nguyenduong21.github.io/WorkShopTwo/3-ingestionwithdms/3.1-dms-migration-lab/",
